@@ -3,6 +3,8 @@ body {
 	color: black;
 	background-color: #F5E050;
 	font-family: 'Oxygen', sans-serif;
+	margin: 5px;
+
 }
 
 #header-nav {
@@ -16,3 +18,26 @@ body {
 	height: 55px;
 	margin: 10px 15px 10px 0;
 }
+
+.navbar-brand {
+
+	font-family: 'Oswald', sans-serif;
+	color: #50F58E;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-shadow:  1px 1px 0px #eb452b, 
+                  2px 2px 0px #efa032, 
+                  3px 3px 0px #46b59b, 
+                  4px 4px 0px #017e7f, 
+                  5px 5px 0px #052939, 
+                  6px 6px 0px #c11a2b, 
+                  7px 7px 0px #c11a2b, 
+                  8px 8px 0px #c11a2b, 
+                  9px 9px 0px #c11a2b;
+}
+
+
+
+
+
